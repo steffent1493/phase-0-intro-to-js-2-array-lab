@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-04-18T16:52:35.229Z",
-    "end": "2021-04-18T16:52:35.469Z",
-    "duration": 240
+    "start": "2021-05-16T18:23:39.887Z",
+    "end": "2021-05-16T18:23:40.106Z",
+    "duration": 219
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
